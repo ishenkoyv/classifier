@@ -10,9 +10,8 @@
 
 # Установка 
 
-```
-git clone git@github.com:shuvalov-anton/classifier.git
-cd classifier
-npm i
-node app.js
-```
+
+    git clone git@github.com:shuvalov-anton/classifier.git
+    cd classifier
+    npm i
+    node app.js
